@@ -260,7 +260,7 @@ CL을 반영한 후에도 시스템이 잘 작동해야 합니다. 새로운 API
 * [코드 리뷰에 대한 구글 논문? c](../_posts/2023-03-11-code_reivew_case_study_at_google.md) -->
 
 <!-- 왜 상대경로는 안되고, URL 형식만 될까? 이유를 못찾아서 pass -->
-* [코드 리뷰에 대한 구글 논문?](https://deity719.github.io/2023-03-11-code_reivew_case_study_at_google/)
+* [코드 리뷰에 대한 구글 논문?](https://deity719.github.io/TIL/2023-03-11-code_reivew_case_study_at_google/)
 
 <details>
 <summary>[설문결과] 개발자들의 코드 리뷰 애로사항...</summary>

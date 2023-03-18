@@ -22,13 +22,13 @@ author: byoungwoo.yoon
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Tag Index: "https://deity719.github.io/tags/"
+    - Tag Index: "https://deity719.github.io/TIL/tags/"
     - C++: "https://isocpp.org/"
     - Python: "https://www.python.org/"
     # - S.LSI Testing Blog: "https://github.samsungds.net/pages/SLSISE/PANDO/"
     # - Learn markdown: "https://www.markdowntutorial.com/"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
-  Author's home: "https://deity719.github.io/"
+  Author's home: "https://deity719.github.io/TIL/"
 
 ################
 # --- Logo --- #

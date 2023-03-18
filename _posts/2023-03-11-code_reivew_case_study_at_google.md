@@ -101,4 +101,4 @@ Formatting 이나 API 사용 패턴 등 코딩 스타일 규범 유지
 
 # Reference
 <!-- 왜 상대경로는 안되고, URL 형식만 될까? 이유를 못찾아서 pass -->
-* [구글의 코드 리뷰 문화는?](https://deity719.github.io/2023-03-10-code_review_at_google/)
+* [구글의 코드 리뷰 문화는?](https://deity719.github.io/TIL/2023-03-10-code_review_at_google/)
