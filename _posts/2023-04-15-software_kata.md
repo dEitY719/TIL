@@ -97,8 +97,7 @@ TDD(Test Driven Development) 개발 문화를 확산시키고픈 강박관념이
 
 <div markdown="1">
 
-* 버그없는 Software는 없습니다.
-* 완벽한 Software 없습니다.<sup>2)</sup>
+* 완벽한(버그 없는) Software 없습니다.<sup>2)</sup>
 * 끊임없이 도전하고 도전에서 배운 것을 가지고 개선하는 것이 가장 좋은 Software 입니다.
 
 ![Why](../assets/img/KATA_why_not_work_why_work.png)
