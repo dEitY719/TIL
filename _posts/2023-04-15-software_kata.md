@@ -95,11 +95,11 @@ TDD(Test Driven Development) 개발 문화를 확산시키고픈 강박관념이
 <details>
 <summary>페이 닥터 만큼 돈을 받으면 완벽한 소프트웨어를 개발할 수 있을까요?</summary>
 
+<div markdown="1">
+
 * 버그없는 Software는 없습니다.
 * 완벽한 Software 없습니다.<sup>2)</sup>
 * 끊임없이 도전하고 도전에서 배운 것을 가지고 개선하는 것이 가장 좋은 Software 입니다.
-
-<div markdown="1">
 
 ![Why](../assets/img/KATA_why_not_work_why_work.png)
 </div>
